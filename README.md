@@ -26,3 +26,22 @@ Pizzas
 
 Toppings
 ![image](https://user-images.githubusercontent.com/59868534/117246627-9aa92c80-ae5a-11eb-9231-5e4464c81562.png)
+
+# Steps to run project
+-->Create a environment
+
+-->Run the command "pip install -r requirements.txt", it installs all the packages used in the project
+![image](https://user-images.githubusercontent.com/59868534/117248535-c4b01e00-ae5d-11eb-95cf-5823eed19425.png)
+
+-->Run the command "python manage.py makemigrations"
+![image](https://user-images.githubusercontent.com/59868534/117248716-080a8c80-ae5e-11eb-93e9-36708226a6a5.png)
+
+-->Run the command "python manage.py migrate"
+![image](https://user-images.githubusercontent.com/59868534/117248802-2f615980-ae5e-11eb-924a-3fc8c0cbd993.png)
+
+-->Run the command "python manage.py runserver", it runs the project
+![image](https://user-images.githubusercontent.com/59868534/117248938-5b7cda80-ae5e-11eb-80d3-6fb9598860c4.png)
+
+After running the project goto "/api" path
+![image](https://user-images.githubusercontent.com/59868534/117249101-a8f94780-ae5e-11eb-90e2-912daa218ac2.png)
+
