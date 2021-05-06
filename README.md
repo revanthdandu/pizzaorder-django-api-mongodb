@@ -30,6 +30,9 @@ Toppings
 # Steps to run project
 -->Create a environment
 
+-->In the PizzaOrder app navigate to settings and add your MongoDB database
+![image](https://user-images.githubusercontent.com/59868534/117249713-b236e400-ae5f-11eb-83eb-1bcd26cfdc91.png)
+
 -->Run the command "pip install -r requirements.txt", it installs all the packages used in the project
 ![image](https://user-images.githubusercontent.com/59868534/117248535-c4b01e00-ae5d-11eb-95cf-5823eed19425.png)
 
